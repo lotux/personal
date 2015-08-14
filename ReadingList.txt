@@ -1,2 +1,3 @@
 Books to read:
 The Definitive Guide to the Xen Hypervisor -  David Chisnall
+Computation, Proof, Machine - Gilles Dowek; Pierre Guillot; Marion Roman
